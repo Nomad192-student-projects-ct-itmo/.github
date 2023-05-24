@@ -7,15 +7,30 @@ This is the organization where all my training projects are collected on ct ITMO
 # 1 semester
 * Computer architecture
   * [Cache-Emulator](https://github.com/Nomad192-student-projects-ct-itmo/Cache-Emulator)
+* [Introduction to programming (Java)](https://github.com/Nomad192-student-projects-ct-itmo/Java)
 
+---
 
-<!--
+# 2 semester
+* Algorithms and Data Structure
+  * [1 laboratory (All sorts of binary jokes with segments)](https://github.com/Nomad192-student-projects-ct-itmo/2sem_AlgoLab_1)
+  * [2 laboratory (Binary forest)](https://github.com/Nomad192-student-projects-ct-itmo/2sem_AlgoLab_2)
+  * [3 laboratory (All sorts of binary jokes in the non-binary forest)](https://github.com/Nomad192-student-projects-ct-itmo/2sem_AlgoLab_3)
+* Discrete mathematics
+  * [1 laboratory (DFA and NFA)](https://github.com/Nomad192-student-projects-ct-itmo/2sem_DM_1)
+  * [2 laboratory (Context-free grammar)](https://github.com/Nomad192-student-projects-ct-itmo/2sem_DM_2)
+* C/C++
+  * [Transcoding-UTF](https://github.com/Nomad192-student-projects-ct-itmo/Transcoding-UTF)
+  * [Gauss_Jordan](https://github.com/Nomad192/gauss_jordan)
+  * [QSort](https://github.com/Nomad192-student-projects-ct-itmo/QSort)
+* [Programming paradigms (Java, Java-Script, Clojure, ~Prolog~)](https://github.com/Nomad192-student-projects-ct-itmo/Paradigms) 
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 3 semester
+* Algorithms and Data Structure
+* Discrete mathematics
+  * [1 laboratory (Graphs)](https://github.com/Nomad192-student-projects-ct-itmo/3sem_DM_1)
+  * [2 laboratory (Matroids)](https://github.com/Nomad192-student-projects-ct-itmo/3sem_DM_2)
+
+---
