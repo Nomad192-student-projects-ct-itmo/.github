@@ -30,6 +30,7 @@ This is the organization where all my training projects are collected on ct ITMO
 
 # 3 semester
 * Algorithms and Data Structure
+  * [1 laboratory (Graphs again)](https://github.com/Nomad192-student-projects-ct-itmo/3sem_Algo_1)
 * Discrete mathematics
   * [1 laboratory (Graphs)](https://github.com/Nomad192-student-projects-ct-itmo/3sem_DM_1)
   * [2 laboratory (Matroids)](https://github.com/Nomad192-student-projects-ct-itmo/3sem_DM_2)
