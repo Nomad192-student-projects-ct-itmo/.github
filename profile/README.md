@@ -20,9 +20,10 @@ This is the organization where all my training projects are collected on ct ITMO
   * [1 laboratory (DFA and NFA)](https://github.com/Nomad192-student-projects-ct-itmo/2sem_DM_1)
   * [2 laboratory (Context-free grammar)](https://github.com/Nomad192-student-projects-ct-itmo/2sem_DM_2)
 * C/C++
-  * [Transcoding-UTF](https://github.com/Nomad192-student-projects-ct-itmo/Transcoding-UTF)
   * [Gauss_Jordan](https://github.com/Nomad192/gauss_jordan)
+  * [Transcoding-UTF](https://github.com/Nomad192-student-projects-ct-itmo/Transcoding-UTF)
   * [QSort](https://github.com/Nomad192-student-projects-ct-itmo/QSort)
+  * [Large Number](https://github.com/Nomad192-student-projects-ct-itmo/Large_Number)
 * [Programming paradigms (Java, Java-Script, Clojure, ~Prolog~)](https://github.com/Nomad192-student-projects-ct-itmo/Paradigms) 
 
 ---
