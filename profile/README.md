@@ -7,7 +7,8 @@ This is the organization where all my training projects are collected on ct ITMO
 # 1 semester
 * Computer architecture
   * [Cache-Emulator](https://github.com/Nomad192-student-projects-ct-itmo/Cache-Emulator)
-* [Introduction to programming (Java)](https://github.com/Nomad192-student-projects-ct-itmo/Java)
+* Introduction to programming (Java)
+  * [All Solutions](https://github.com/Nomad192-student-projects-ct-itmo/Java)
 
 ---
 
@@ -24,8 +25,15 @@ This is the organization where all my training projects are collected on ct ITMO
   * [Transcoding-UTF](https://github.com/Nomad192-student-projects-ct-itmo/Transcoding-UTF)
   * [QSort](https://github.com/Nomad192-student-projects-ct-itmo/QSort)
   * [Large Number](https://github.com/Nomad192-student-projects-ct-itmo/Large_Number)
-* [Programming paradigms (Java, Java-Script, Clojure, ~Prolog~)](https://github.com/Nomad192-student-projects-ct-itmo/Paradigms) 
-
+* Programming paradigms (Java, Java-Script, Clojure, ~Prolog~)
+  * [All Solutions](https://github.com/Nomad192-student-projects-ct-itmo/Paradigms)
+  * JavaScript
+    * [Object Expression](https://github.com/Nomad192-student-projects-ct-itmo/Object-Expression-JS)
+  * Clojure
+    * [Linear Algebra](https://github.com/Nomad192-student-projects-ct-itmo/Linear-Algebra-clj)
+    * [Functional Expression](https://github.com/Nomad192-student-projects-ct-itmo/Functional-Expression-clj) 
+    * [Object Expression](https://github.com/Nomad192-student-projects-ct-itmo/Object-Expression-clj)
+    * [Parser Combinators](https://github.com/Nomad192-student-projects-ct-itmo/Parser-Combinators-clj)
 ---
 
 # 3 semester
