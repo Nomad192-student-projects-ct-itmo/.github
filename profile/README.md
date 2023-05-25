@@ -42,5 +42,16 @@ This is the organization where all my training projects are collected on ct ITMO
 * Discrete mathematics
   * [1 laboratory (Graphs)](https://github.com/Nomad192-student-projects-ct-itmo/3sem_DM_1)
   * [2 laboratory (Matroids)](https://github.com/Nomad192-student-projects-ct-itmo/3sem_DM_2)
-
+* C++ Advanced - In-depth course on writing some classes that fully comply with the standard library (and bonus - intrusive classes) 
+  * Practices
+    * [intrusive-list](https://github.com/Nomad192-student-projects-ct-itmo/intrusive-list)
+    * [shared-ptr](https://github.com/Nomad192-student-projects-ct-itmo/shared-ptr)
+    * [function](https://github.com/Nomad192-student-projects-ct-itmo/function)
+    * [optional](https://github.com/Nomad192-student-projects-ct-itmo/optional)
+    * [signal](https://github.com/Nomad192-student-projects-ct-itmo/signal)
+  * Laboratory work
+    * [bimap](https://github.com/Nomad192/bimap)
+    * [variant](https://github.com/Nomad192/variant)
+  * Exam
+    * [intrusive-ptr](https://github.com/Nomad192-student-projects-ct-itmo/intrusive-ptr)
 ---
